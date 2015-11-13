@@ -1,0 +1,8 @@
+F:\VS PROJECTS\Iced\Iced\bin\Release\Iced.exe.config
+F:\VS PROJECTS\Iced\Iced\bin\Release\Iced.exe
+F:\VS PROJECTS\Iced\Iced\bin\Release\Iced.pdb
+F:\VS PROJECTS\Iced\Iced\obj\Release\Iced.Form1.resources
+F:\VS PROJECTS\Iced\Iced\obj\Release\Iced.Properties.Resources.resources
+F:\VS PROJECTS\Iced\Iced\obj\Release\Iced.csproj.GenerateResource.Cache
+F:\VS PROJECTS\Iced\Iced\obj\Release\Iced.exe
+F:\VS PROJECTS\Iced\Iced\obj\Release\Iced.pdb
