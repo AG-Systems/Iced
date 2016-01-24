@@ -6,3 +6,7 @@ How to use it:
 FInd the .exe and spam the crash button and your computer will freeze. 
 
 I TAKE NO RESPONBILITY FOR YOUR ACTIONS. 
+
+Planned features:
+
+Disable keyboard.
