@@ -10,3 +10,5 @@ I TAKE NO RESPONBILITY FOR YOUR ACTIONS.
 Planned features:
 
 Disable keyboard.
+
+Open more applications to do more "freezing".
